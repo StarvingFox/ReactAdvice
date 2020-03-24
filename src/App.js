@@ -30,7 +30,7 @@ class App extends React.Component{
                 <div className="card">
                     <h1 className="heading">{advice} </h1>    
                     <button className="button" onClick={this.getAdvice}>
-                        <span>Give me advice</span>    
+                        <span>Antonio is gay</span>    
                     </button>
                 </div>
             </div>
